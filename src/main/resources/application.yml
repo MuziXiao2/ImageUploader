@@ -16,3 +16,5 @@ spring:
     multipart:
       max-file-size: 10MB
       max-request-size: 20MB
+jwt:
+  secret: muzixiao2-jwt-sign-key-1234567890-xx
